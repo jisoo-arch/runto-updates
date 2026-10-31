@@ -1,5 +1,5 @@
 {
-  "version": "1.19.14",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.14/E.exe",
-  "notes": "自动更新功能上线：启动自动检查新版本，确认后下载覆盖更新并重启"
+  "version": "1.19.15",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.15/E.exe",
+  "notes": "修复 v1.19.14 启动崩溃：补回 createWindow 函数头，update-util.js 加入打包白名单（asar 缺模块导致 Cannot find module）"
 }
