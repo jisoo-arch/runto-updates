@@ -1,5 +1,5 @@
 {
-  "version": "1.19.15",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.15/E.exe",
-  "notes": "修复 v1.19.14 启动崩溃：补回 createWindow 函数头，update-util.js 加入打包白名单（asar 缺模块导致 Cannot find module）"
+  "version": "1.19.30",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.30/E.exe",
+  "notes": "修复：①一键发布成功后残留「继续任务」提示——关闭弹窗停止的旧任务（paused）不再干扰（只认最新任务）；②已打开账号页时一键发布打不开发布作品窗口导致发布页超时——已打开账号自动导航到发布页"
 }
