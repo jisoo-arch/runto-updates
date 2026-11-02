@@ -1,5 +1,5 @@
 {
-  "version": "1.19.34",
+  "version": "1.19.36",
   "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.34/E.exe",
-  "notes": "设置新增「手动检测更新」按钮：随时手动检查更新（无更新提示已是最新版本，失败提示原因，自动检查失败可手动重试）；设置弹窗显示当前版本号"
+  "notes": "【临时模拟】v1.19.36 更新下载链路测速（实际下载 v1.19.34 安装包，测后恢复 1.19.34）"
 }
