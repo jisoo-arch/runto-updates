@@ -1,5 +1,6 @@
 {
-  "version": "1.19.30",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.30/E.exe",
-  "notes": "修复：①一键发布成功后残留「继续任务」提示——关闭弹窗停止的旧任务（paused）不再干扰（只认最新任务）；②已打开账号页时一键发布打不开发布作品窗口导致发布页超时——已打开账号自动导航到发布页"
+  "notes": "界面：左侧账号树与右侧已打开账号标签改用平台真实图标（抖音/快手/哔哩哔哩/小红书等 8 平台品牌 logo，替代文字与颜色点）",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.32/E.exe",
+  "version": "1.19.32"
 }
+
