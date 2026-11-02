@@ -1,5 +1,5 @@
 {
-  "version": "1.19.35",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.35/v1.19.35.exe",
-  "notes": "下载体验修复：探测双通道（HEAD 失败自动 GET Range 0-0）恢复 4 路分块并行提速；进度条实时（分块与单流均显示真实进度，不再卡 0%）；下载超时保护（连接 90s/停滞 60s）；镜像加速（GitHub 直链国内实测仅 17KB/s，自动优先 ghfast.top 镜像实测 1.93MB/s，镜像失败自动回退直链）"
+  "version": "1.20.0",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.0-1/v1.20.0-1.exe",
+  "notes": "新增「数据」页面板块：导航栏新增数据页（账号页右侧），当前为空白预留页，数据功能后续迭代"
 }
