@@ -1,6 +1,5 @@
 {
-  "notes": "界面：左侧账号树与右侧已打开账号标签改用平台真实图标（抖音/快手/哔哩哔哩/小红书等 8 平台品牌 logo，替代文字与颜色点）",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.32/E.exe",
-  "version": "1.19.32"
+  "version": "1.19.34",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.19.34/E.exe",
+  "notes": "设置新增「手动检测更新」按钮：随时手动检查更新（无更新提示已是最新版本，失败提示原因，自动检查失败可手动重试）；设置弹窗显示当前版本号"
 }
-
