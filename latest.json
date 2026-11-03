@@ -1,5 +1,5 @@
 {
     "version":  "1.20.7",
     "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.7/E.exe",
-    "notes":  "修复右侧筛选平台时左侧误显示新手引导(筛选到没有账号的平台时左侧为空)"
+    "notes":  "修复右侧筛选平台到无账号平台时左侧误显示新手引导（引导仅在全账号为空且未筛选/未搜索时显示）"
 }
