@@ -1,5 +1,5 @@
 {
-    "version":  "1.20.6",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.6/E.exe",
-    "notes":  "v1.20.6：安装器支持选择安装位置（默认/自定义目录）；升级自动定位已装位置，任意目录安装都能卸载旧版并装回原目录完成替换（承 v1.20.5 NSIS 安装版 + chcp 中文路径乱码修复）"
+    "version":  "1.20.7",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.7/E.exe",
+    "notes":  "修复右侧筛选平台时左侧误显示新手引导(筛选到没有账号的平台时左侧为空)"
 }
