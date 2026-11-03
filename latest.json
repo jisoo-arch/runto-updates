@@ -1,5 +1,5 @@
 {
-    "version":  "1.20.1",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.1/E.exe",
-    "notes":  "修复：设置「点击关闭按钮时=退出程序」保存后重启失效问题——设置持久化到本机，重启后保持退出程序（不再恢复默认最小化到托盘）"
+    "version":  "1.20.3",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.3/E.exe",
+    "notes":  "修复：账号页右侧打开的账号在切换到「数据」页时残留未隐藏——切换时同步隐藏创作者中心，切回且仍有打开账号时自动恢复"
 }
