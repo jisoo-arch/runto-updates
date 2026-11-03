@@ -1,5 +1,5 @@
 {
-    "version":  "1.20.4",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.4/E.exe",
-    "notes":  "修复更新失败 spawn EINVAL：Windows 下 Node 直接拉起 .bat 需走 cmd.exe（shell:true），此前写法致自动更新在重启步骤中断；本版修复后更新链路完整走通（下载→校验→覆盖→重启）"
+    "version":  "1.20.6",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.6/E.exe",
+    "notes":  "v1.20.6：安装器支持选择安装位置（默认/自定义目录）；升级自动定位已装位置，任意目录安装都能卸载旧版并装回原目录完成替换（承 v1.20.5 NSIS 安装版 + chcp 中文路径乱码修复）"
 }
