@@ -1,5 +1,5 @@
 {
-    "version":  "1.20.3",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.3/E.exe",
-    "notes":  "修复：账号页右侧打开的账号在切换到「数据」页时残留未隐藏——切换时同步隐藏创作者中心，切回且仍有打开账号时自动恢复"
+    "version":  "1.20.4",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.4/E.exe",
+    "notes":  "修复更新失败 spawn EINVAL：Windows 下 Node 直接拉起 .bat 需走 cmd.exe（shell:true），此前写法致自动更新在重启步骤中断；本版修复后更新链路完整走通（下载→校验→覆盖→重启）"
 }
