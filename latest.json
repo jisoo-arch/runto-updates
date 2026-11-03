@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.0-1/E.exe",
-  "notes": "新增「数据」页面板块：导航栏新增数据页（账号页右侧），当前为空白预留页，数据功能后续迭代"
+    "version":  "1.20.1",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.1/E.exe",
+    "notes":  "修复：设置「点击关闭按钮时=退出程序」保存后重启失效问题——设置持久化到本机，重启后保持退出程序（不再恢复默认最小化到托盘）"
 }
