@@ -1,5 +1,5 @@
 {
-    "version":  "1.20.8",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.8/E.exe",
-    "notes":  "数据页新增账号筛选功能（任务记录列表+按账号筛选+状态统计）"
+    "version":  "1.20.7",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.20.7/E.exe",
+    "notes":  "修复右侧筛选平台到无账号平台时左侧误显示新手引导（引导仅在全账号为空且未筛选/未搜索时显示）"
 }
