@@ -1,5 +1,5 @@
 {
-    "version":  "1.21.1",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.21.1/E.exe",
-    "notes":  "修复首次启动账号页「全部平台」下拉无平台数据（需关闭重开才出现）：平台数据提前加载，下拉未就绪时自动重试补齐"
+    "version":  "1.21.2",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.21.2/E.exe",
+    "notes":  "修复应用已打开时再次启动会新开多个实例、且新窗口读不到账号信息：现在单实例运行，再次启动只聚焦并刷新已有窗口"
 }
