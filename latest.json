@@ -1,5 +1,5 @@
 {
-    "version":  "1.21.0",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.21.0/E.exe",
-    "notes":  "账号页右侧全部平台下拉与添加账号弹窗平台一致(仅平台名)；版本升级至 v1.21.0"
+    "version":  "1.21.1",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.21.1/E.exe",
+    "notes":  "修复首次启动账号页「全部平台」下拉无平台数据（需关闭重开才出现）：平台数据提前加载，下拉未就绪时自动重试补齐"
 }
