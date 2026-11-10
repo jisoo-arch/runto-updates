@@ -1,5 +1,5 @@
 {
-    "version":  "1.21.2",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.21.2/E.exe",
-    "notes":  "修复应用已打开时再次启动会新开多个实例、且新窗口读不到账号信息：现在单实例运行，再次启动只聚焦并刷新已有窗口"
+    "version":  "1.22.3",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.22.3/E.exe",
+    "notes":  "修复自动更新进度弹窗点击外部即消失：进度改为独立置顶小窗口，下载期间可继续使用应用、切回来进度仍在；关闭进度窗不中断下载，可从「设置 → 检测更新」一键重新打开"
 }
