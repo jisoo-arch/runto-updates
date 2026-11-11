@@ -1,5 +1,5 @@
 {
-    "version":  "1.22.3",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.22.3/E.exe",
-    "notes":  "修复自动更新进度弹窗点击外部即消失：进度改为独立置顶小窗口，下载期间可继续使用应用、切回来进度仍在；关闭进度窗不中断下载，可从「设置 → 检测更新」一键重新打开"
+  "version": "1.24.3",
+  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.24.3/E.exe",
+  "notes": "修复抖音/快手私密作品统计：抖音按作品卡与私密角标、快手按封面私密标记识别为仅自己可见，计入受限条数；视频发布条数加“总”标签，含受限与已删除作品"
 }
