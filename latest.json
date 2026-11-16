@@ -1,5 +1,5 @@
 {
-  "version": "1.24.3",
-  "url": "https://github.com/jisoo-arch/runto-updates/releases/download/v1.24.3/E.exe",
-  "notes": "修复抖音/快手私密作品统计：抖音按作品卡与私密角标、快手按封面私密标记识别为仅自己可见，计入受限条数；视频发布条数加“总”标签，含受限与已删除作品"
+    "version":  "1.24.6",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.24.6/E.exe",
+    "notes":  "修复抖音已完成身份认证后不自动加号：登录窗底部提示条中的“扫码登录”被误当作登录墙，改为取文本前临时隐藏提示条再判定；作者账号页面在创作者后台实测判定为就绪。"
 }
