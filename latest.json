@@ -1,5 +1,5 @@
 {
-    "version":  "1.24.6",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.24.6/E.exe",
-    "notes":  "修复抖音已完成身份认证后不自动加号：登录窗底部提示条中的“扫码登录”被误当作登录墙，改为取文本前临时隐藏提示条再判定；作者账号页面在创作者后台实测判定为就绪。"
+    "version":  "1.25.0",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.25.0/E.exe",
+    "notes":  "账号昵称自动同步：应用启动自动检查 + 每6小时周期同步，用户在平台侧改名后无需任何操作即可拉回并保存最新昵称；同步失败或未取到昵称时保留原昵称，不会被覆盖成占位名；用户手动设置过的昵称不会被自动改写。同时补齐哔哩哔哩、小红书、今日头条的昵称抓取（哔哩哔哩创作者中心不渲染昵称，改走个人空间页）。"
 }
