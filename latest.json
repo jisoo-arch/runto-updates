@@ -1,5 +1,5 @@
 {
-    "version":  "1.25.19",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.25.19/E.exe",
-    "notes":  "优化采集进度展示并修复进度状态无法结束；修复数据页「刷新」按钮未真正重抓平台的问题"
+    "version":  "1.25.20",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.25.20/E.exe",
+    "notes":  "修复账号视频缩略图在启动后空白或消失：隐藏的昵称同步与作品采集窗口改为按请求来源精确拦截重型资源，不再误伤同账号创作者中心的缩略图"
 }
