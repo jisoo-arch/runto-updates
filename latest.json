@@ -1,5 +1,5 @@
 {
-    "version":  "1.25.20",
-    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.25.20/E.exe",
-    "notes":  "修复账号视频缩略图在启动后空白或消失：隐藏的昵称同步与作品采集窗口改为按请求来源精确拦截重型资源，不再误伤同账号创作者中心的缩略图"
+    "version":  "1.25.22",
+    "url":  "https://github.com/jisoo-arch/runto-updates/releases/download/v1.25.22/E.exe",
+    "notes":  "优化账号备注的可修改性提示：账号已有备注时，在备注后显式显示「修改备注」入口，点击即可编辑；无备注时仍显示「设置备注」"
 }
